@@ -31,5 +31,5 @@ metadata:
 spec:
   type: service
   lifecycle: prod
-  owner: user-team
+  owner: member-team
   system: delivery
