@@ -2,10 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: member-service
-    
   tags:
     - java
-
+    - food-ordering
   links:
     - url: https://example.com/user
       title: Examples Users
@@ -30,6 +29,6 @@ metadata:
       icon: alert
 spec:
   type: service
-  lifecycle: prod
+  lifecycle: production
   owner: member-team
   system: delivery
