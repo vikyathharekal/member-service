@@ -28,6 +28,8 @@ metadata:
     - url: https://example.com/alert
       title: Alerts
       icon: alert
+  annotations:
+    backstage.io/source-location: 'url:https://github.com/vikyathharekal/member-service/tree/main/idp'
 spec:
   type: service
   lifecycle: production
