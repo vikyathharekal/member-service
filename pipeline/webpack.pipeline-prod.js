@@ -5,7 +5,7 @@ const {
   container: { ModuleFederationPlugin },
   DefinePlugin
 } = require('webpack')
-const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+
 const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin')
 const CircularDependencyPlugin = require('circular-dependency-plugin')
 const { GenerateStringTypesPlugin } = require('@harness/uicore/tools/GenerateStringTypesPlugin')
