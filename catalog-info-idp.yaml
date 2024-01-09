@@ -35,6 +35,6 @@ metadata:
       icon: alert
 spec:
   type: service
-  lifecycle: production
+  lifecycle: experimental
   owner: harness_account_all_users
   system: delivery
