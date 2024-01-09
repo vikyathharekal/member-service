@@ -2,9 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: idp-module
-  branch: develop
-  path: idp
-  labels:
+  harnessData:
     branch: develop
     path: idp
   tags:
