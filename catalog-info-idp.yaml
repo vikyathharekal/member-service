@@ -5,6 +5,9 @@ metadata:
   harnessData:
     branch: develop
     path: idp
+    priority: P0,P1
+  annotations:
+    jira/project-key: IDP
   tags:
     - java
     - idp-module
