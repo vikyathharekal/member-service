@@ -4,7 +4,7 @@ metadata:
   name: member-service
   annotations:
     harness.io/pipelines: |
-      Build: https://laxmiharness.pr2.harness.io/ng/account/6cBjZs_fTWCiRITqFyRrgQ/module/ci/orgs/default/projects/IDP/pipelines/testpipeline_directpush_Clone/pipeline-studio?storeType=INLINE
+      Build: https://laxmiharness.pr2.harness.io/ng/account/6cBjZs_fTWCiRITqFyRrgQ/module/ci/orgs/default/projects/IDP/pipelines/CI_pipeline/pipeline-studio?storeType=INLINE
   tags:
     - java
     - food-ordering
